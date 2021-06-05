@@ -183,6 +183,14 @@ p {
 }
 
 .credit {
+  font-size: 8px;
+  font-style: italic;
+  display: flex;
+}
+
+@media screen and (min-width: 992px) {
+.credit {
   font-size: 12px;
   font-style: italic;
+}
 }

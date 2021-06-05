@@ -17,7 +17,8 @@ const Menu = ({ items }) => {
                             <p className="item-text" >{desc}</p>
                             
                         </div>
-                        <p className="credit">Photo credit: {credit}. Original: {original}</p>
+                        <p className="credit">Photo credit: {credit}.</p>
+                        <p className="credit"> Original: {original}.</p>
                     </article>
                 );
             })}
