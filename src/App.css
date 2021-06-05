@@ -181,3 +181,8 @@ p {
 .btn:hover {
   background: var(--main-colour-darkSand);
 }
+
+.credit {
+  font-size: 12px;
+  font-style: italic;
+}
